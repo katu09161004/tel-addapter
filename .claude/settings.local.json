@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(xcodebuild:*)",
+      "Bash(swift:*)",
+      "Bash(python:*)",
+      "Bash(pip:*)",
+      "WebSearch",
+      "WebFetch(domain:docs.amivoice.com)",
+      "WebFetch(domain:aquavoice.com)",
+      "Bash(git init:*)",
+      "Bash(gh repo list:*)",
+      "Bash(gh repo create:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

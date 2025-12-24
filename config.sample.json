@@ -1,0 +1,18 @@
+{
+  "amivoice_api_key": "",
+  "amivoice_engine": "call",
+  "sakura_token_id": "",
+  "sakura_secret": "",
+  "transcription_provider": "amivoice",
+  "github_token": "",
+  "github_owner": "",
+  "github_repo": "",
+  "github_branch": "main",
+  "github_path": "call_records",
+  "save_audio_to_github": false,
+  "save_raw_transcript": true,
+  "recordings_dir": "recordings",
+  "transcripts_dir": "transcripts",
+  "sample_rate": 16000,
+  "audio_device_index": null
+}
