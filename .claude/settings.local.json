@@ -14,7 +14,9 @@
       "WebFetch(domain:aquavoice.com)",
       "Bash(git init:*)",
       "Bash(gh repo list:*)",
-      "Bash(gh repo create:*)"
+      "Bash(gh repo create:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: Tel-Addapter - ISO 15189通話記録システム\n\n- 電話録音モジュール (Raspberry Pi + TP8)\n- AmiVoice/さくらWhisper 文字起こし対応\n- GitHub自動アップロード機能\n- セットアップ・ハードウェアドキュメント\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "WebFetch(domain:www.monotaro.com)"
     ],
     "deny": [],
     "ask": []
